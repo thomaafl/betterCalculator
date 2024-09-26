@@ -1,1 +1,3 @@
-# betterCalculator
+# better calculator
+
+first version...
